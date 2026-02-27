@@ -1,0 +1,5 @@
+{
+  "name": "HR Policy Navigator",
+  "description": "An intelligent HR Internal Policy Ask-Me-Anything application powered by RAG and Gemini. Upload your company handbook to get instant, grounded answers on leave, benefits, and more.",
+  "requestFramePermissions": []
+}
